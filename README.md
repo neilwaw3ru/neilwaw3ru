@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @neilwaw3ru
 - 👀 I’m interested in Computers 
 - 🌱 I’m currently learning Software Engineering
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Email @neilmarkw21@gmail.com
 
 <!---
